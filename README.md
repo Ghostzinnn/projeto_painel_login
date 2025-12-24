@@ -98,6 +98,6 @@ O arquivo `banco.json` será criado automaticamente se não existir.
 
 ## 👨‍💻 Autor
 
-**Erlon Andrade**  
+**Erlon Matheus**  
 Estudante de Análise e Desenvolvimento de Sistemas  
 Projeto desenvolvido para fins educacionais e portfólio.
